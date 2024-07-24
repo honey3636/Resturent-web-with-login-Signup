@@ -1,0 +1,216 @@
+{
+  "users": [
+    {
+      "id": "9bcc",
+      "name": "Hamdan",
+      "email": "hhhqureshil2003@gmail.com",
+      "password": "abc@124"
+    },
+    {
+      "id": "1461",
+      "email": "khalid1122Agmail.com",
+      "name": "Khalid",
+      "password": "laksdfjl;asdkfas"
+    },
+    {
+      "id": "0ca0",
+      "email": "fahad1122@gamil.com",
+      "name": "Fahad Malik",
+      "password": "fahaddon"
+    },
+    {
+      "id": "368b",
+      "email": "zohaib@11gmail.com",
+      "name": "Zohaib Yaseen",
+      "password": "zohaib11"
+    },
+    {
+      "id": "917a",
+      "email": "saadmirza234@gmail.com",
+      "name": "Saad Mirza",
+      "password": "saad234@"
+    },
+    {
+      "id": "9a54",
+      "email": "zaymalik786@gmail.com",
+      "name": "Zay subhan",
+      "password": "f1234"
+    },
+    {
+      "id": "038b",
+      "email": "subhan567@gmail.com",
+      "name": "Subhan",
+      "password": "subhan765"
+    },
+    {
+      "id": "0943",
+      "email": "usman234@gmail.com",
+      "name": "Usman",
+      "password": "usmand2345"
+    },
+    {
+      "id": "6cf6",
+      "email": "falak123@gmail.com",
+      "name": "Falak Noor",
+      "password": "falak123"
+    },
+    {
+      "id": "538b",
+      "email": "zahid789@gmai.com",
+      "name": "Zahid",
+      "password": "iloveyou"
+    },
+    {
+      "id": "0a7e",
+      "email": "hajiqureshi@gmail.com",
+      "name": "Haji",
+      "password": "haji123"
+    },
+    {
+      "id": "a66b",
+      "email": "hhhmughal2003@gmal.com",
+      "name": "hanzala",
+      "password": "dsfjk;lasd"
+    },
+    {
+      "id": "604e",
+      "email": "humair1122don@gmail.com",
+      "name": "Humair Don",
+      "password": "donhumair"
+    },
+    {
+      "id": "93f6",
+      "email": "hhhmughal2003@gmail.com",
+      "name": "Hanzala",
+      "password": "1122"
+    },
+    {
+      "id": "c026",
+      "email": "hhhhanzala@gmail.com",
+      "name": "hanzala",
+      "password": "123"
+    }
+  ],
+  "resturant": [
+    {
+      "id": "3",
+      "name": "Burger King",
+      "address": "satelliteTown road Sargodha",
+      "contact": 333
+    },
+    {
+      "id": "4",
+      "name": "Fri Chicks",
+      "address": "Food Street Sargodha",
+      "contact": 444
+    },
+    {
+      "address": "Opening Soon(Keep smiling)",
+      "name": "Foody Moody",
+      "contact": "666",
+      "id": "2566"
+    },
+    {
+      "address": "University Road Sargodha",
+      "name": "Mr. Wings(good)",
+      "contact": "784674",
+      "id": "4c07"
+    },
+    {
+      "id": "e2c1",
+      "name": "Top Roof",
+      "address": "Paf Road Sargodha",
+      "contact": "32478923"
+    },
+    {
+      "id": "119d",
+      "name": "McDownald's",
+      "address": "Paf Road Sargodha",
+      "contact": "38749238"
+    },
+    {
+      "id": "d774",
+      "name": "McDownald's",
+      "address": "Paf Road Sargodha",
+      "contact": "38749238"
+    },
+    {
+      "id": "858a",
+      "name": "24/7 Smile",
+      "address": "Coming Soon",
+      "contact": "23949023"
+    },
+    {
+      "id": "0caa",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "38749238"
+    },
+    {
+      "id": "5b22",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "8e0a",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "c411",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "935b",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "cb7f",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "1196",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "45c1",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "address": "Openin Soon",
+      "name": "Hi Fi",
+      "contact": "784674",
+      "id": "7e8d"
+    },
+    {
+      "id": "09cd",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "id": "ab47",
+      "name": "Foody Moody",
+      "address": "street No 3 sadiqa abad sargodha",
+      "contact": "784674"
+    },
+    {
+      "address": "Opening Soon ",
+      "name": "Sushiii Slam",
+      "contact": "7846745",
+      "id": "45a3"
+    }
+  ]
+}
